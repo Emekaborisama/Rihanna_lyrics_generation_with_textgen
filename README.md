@@ -1,5 +1,5 @@
 ### Rihanna_lyrics_generation_with_textgen
-ML model that generate Rihanna kind of lyrics
+ML model that generate Rihanna kind of lyrics and deploy with [okteto](okteto.com)
 
 API url 
 
