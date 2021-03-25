@@ -1,0 +1,3 @@
+flask
+text-gen
+Flask_Cors
